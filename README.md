@@ -1,6 +1,6 @@
 # countlengthofstring
 import java.util.*;
-public countlength
+public countlengthofstrinh
 {
   public static void main(String[] args) 
   {    
